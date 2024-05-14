@@ -14,7 +14,7 @@ Python 3.x
 Running the Application
 1. Clone the repository:
 
-git clone https://github.com/yourusername/personal-finance-manager.git
+git clone https://github.com/Anjaliraj2000/personal_finance_manager_python.git
 cd personal-finance-manager
 
 2. Run the application:
